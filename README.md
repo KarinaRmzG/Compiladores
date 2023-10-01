@@ -1,2 +1,1 @@
 # Compiladores
-# Ejercicios-IA
